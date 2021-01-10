@@ -2,3 +2,8 @@
 .data/tokens/*
 .data/users/*
 https/*
+
+!.data/.trash/.gitkeep
+!.data/tokens/.gitkeep
+!.data/users/.gitkeep
+!https/.gitkeep
